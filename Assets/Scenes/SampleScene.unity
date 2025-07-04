@@ -1264,6 +1264,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 599686629947295472, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 599686629947295472, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 599686629947295472, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 1322816869920726319, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
       propertyPath: m_IsTrigger
       value: 1
@@ -1311,6 +1323,34 @@ PrefabInstance:
     - target: {fileID: 1938386685087646592, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
       propertyPath: m_Name
       value: Platform (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5319857881694973517, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 1.92
+      objectReference: {fileID: 0}
+    - target: {fileID: 5472403028407662292, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5472403028407662292, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5472403028407662292, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.r
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673088781981755242, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.b
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673088781981755242, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.g
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6673088781981755242, guid: 8050b179499f8fd4ba29c55451e2c8ef, type: 3}
+      propertyPath: m_Color.r
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
